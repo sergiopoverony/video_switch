@@ -8,6 +8,7 @@ sudo apt-get install python-rpi.gpio python3-rpi.gpio
 sudo git clone https://github.com/sergiopoverony/video_switch.git 
 
 cd video_switch
+
 sudo bash install.sh
 
 
