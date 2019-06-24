@@ -12,18 +12,13 @@ cd video_switch
 
 sudo bash install.sh
 
-
-
-##Hardware part
-
+### Hardware part
 GPIO21 and button (You can edit GPIO in script)
 
 
 
-##Software part
-
+### Software part
 Python
-
 
 
 ### Credits
