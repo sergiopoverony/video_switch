@@ -22,4 +22,4 @@ Python
 
 
 ### Credits
-SergioPoverony
+SergioPoverony and https://github.com/FWGS
