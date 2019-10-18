@@ -20,5 +20,5 @@ while True:
             print('HDMI')
             status = 0
             os.system("tvservice -p; fbset -depth 8; fbset -depth 16;")
-        os.system("openvt -c 1 -s -f emulationstation 2>&1")
+        os.system("sudo openvt -c 1 -s -f emulationstation 2>&1")
     sleep(0.4)
